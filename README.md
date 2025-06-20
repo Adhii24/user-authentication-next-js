@@ -1,3 +1,4 @@
+CREDITS - Hitesh Choudhary Youtube - https://www.youtube.com/playlist?list=PLRAV69dS1uWR7KF-zV6YPYtKYEHENETyE 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
